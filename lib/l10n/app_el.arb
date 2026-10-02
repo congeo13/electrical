@@ -1,0 +1,30 @@
+{
+  "@@locale": "el",
+  "appTitle": "Protocol",
+  "tabToday": "Σήμερα",
+  "tabTraining": "Προπόνηση",
+  "tabNutrition": "Διατροφή",
+  "tabMeasurements": "Μετρήσεις",
+  "tabSettings": "Ρυθμίσεις",
+  "notAvailableYet": "Δεν είναι διαθέσιμο ακόμη.",
+  "todayPlaceholder": "Εδώ θα εμφανίζεται το πρόγραμμα της ημέρας, ώρα προς ώρα.",
+  "trainingPlaceholder": "Εδώ θα εμφανίζεται το εβδομαδιαίο πλάνο και η σημερινή προπόνηση.",
+  "nutritionPlaceholder": "Εδώ θα καταγράφονται τα γεύματα και τα ημερήσια σύνολα.",
+  "measurementsPlaceholder": "Εδώ θα καταγράφονται το βάρος και η περίμετρος μέσης.",
+  "settingsPlaceholder": "Οι ρυθμίσεις του προγράμματος θα προστεθούν στο επόμενο βήμα.",
+  "databaseSectionTitle": "Βάση δεδομένων",
+  "databaseChecking": "Έλεγχος βάσης δεδομένων…",
+  "databaseReady": "Έκδοση σχήματος {version} · {count} πίνακες",
+  "@databaseReady": {
+    "placeholders": {
+      "version": {"type": "int"},
+      "count": {"type": "int"}
+    }
+  },
+  "databaseError": "Η βάση δεδομένων δεν άνοιξε: {error}",
+  "@databaseError": {
+    "placeholders": {
+      "error": {"type": "String"}
+    }
+  }
+}
